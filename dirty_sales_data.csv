@@ -1,0 +1,131 @@
+﻿order_id,customer_name,product,order_date,quantity,unit_price,total_amount,city,status
+ORD-0001,Kabir Khan,Wireless Mouse,23-10-2026,4,15017,60069.76,Kolkata,Delivered
+ORD-0002,Mira Das,Webcam,18-04-2026,5,19119.47,95597,Chennai,Delivered
+ORD-0003,Ananya Roy,Keyboard,23-04-2026,1,7894.6,7895,Delhi,Delivered
+ORD-0004,Kabir Khan,Monitor,24-06-2026,2,23243.16,46486.32,Unknown,Delivered
+ORD-0005,Mira Das,Wireless Mouse,23-08-2026,2,15887.24,31774.48,Pune,Pending
+ORD-0006,Ananya Roy,Keyboard,26-10-2026,4,11981,47925.72,Bengaluru,Pending
+ORD-0007,Ananya Roy,Laptop Stand,13-03-2026,1,8679.77,8679.77,Delhi,Delivered
+ORD-0008,Aarav Sharma,Keyboard,17-02-2026,5,1548.53,7742.65,Delhi,Shipped
+ORD-0009,Ishita Bose,Power Bank,26-10-2026,3,19691.7,59075.1,Chennai,Shipped
+ORD-0010,Mira Das,Usb-C Hub,26-02-2026,1,13417.82,13417.82,Kolkata,Pending
+ORD-0011,Ananya Roy,Headphones,06-02-2026,3,8113.34,24340.02,Bengaluru,Delivered
+ORD-0012,Kabir Khan,Usb-C Hub,17-02-2026,2,2108.54,4217.08,Mumbai,Delivered
+ORD-0013,Kabir Khan,Keyboard,29-03-2026,5,492.23,2461,Delhi,Delivered
+ORD-0014,Mira Das,Monitor,18-04-2026,1,12366,12365.74,Pune,Delivered
+ORD-0015,Aarav Sharma,Headphones,02-02-2026,2,17367.18,34734.36,Unknown,Shipped
+ORD-0016,Rahul Sen,Laptop Stand,10-10-2026,4,19567.87,78271.48,Kolkata,Delivered
+ORD-0017,Mira Das,Monitor,,2,6428.73,12857.46,Bengaluru,Delivered
+ORD-0018,Kabir Khan,Headphones,05-03-2026,1,7180,7180.5,Kolkata,Delivered
+ORD-0019,Mira Das,Monitor,13-03-2026,4,19723.78,78895.12,Chennai,Shipped
+ORD-0020,Sana Ali,Keyboard,14-02-2026,3,23736.2,71208.6,Bengaluru,Shipped
+ORD-0021,Ishita Bose,Wireless Mouse,18-08-2026,3,15502.22,46507,Chennai,Shipped
+ORD-0022,Kabir Khan,Headphones,24-07-2026,1,18477.25,18477.25,Unknown,Shipped
+ORD-0023,Ananya Roy,Monitor,05-08-2026,5,11547.78,57738.9,Kolkata,Shipped
+ORD-0024,Dev Patel,Usb-C Hub,22-06-2026,1,22961,22960.51,Chennai,Shipped
+ORD-0025,Kabir Khan,Laptop Stand,15-10-2026,4,21577.92,86311.68,Mumbai,Pending
+ORD-0026,Rahul Sen,Laptop Stand,15-10-2026,4,4025,16098,Bengaluru,Pending
+ORD-0027,Ishita Bose,Power Bank,21-05-2026,5,21460,107301.4,Bengaluru,Pending
+ORD-0028,Sana Ali,Monitor,30-04-2026,4,12294.36,49177,Chennai,Delivered
+ORD-0029,Kabir Khan,Monitor,20-03-2026,1,11703,11703,Bengaluru,Delivered
+ORD-0030,Ananya Roy,Keyboard,06-05-2026,3,1585.51,4756.53,Kolkata,Pending
+ORD-0031,Rahul Sen,Keyboard,22-07-2026,3,6628.22,19885,Kolkata,Delivered
+ORD-0032,Mira Das,Webcam,,2,17357.18,34714.36,Chennai,Pending
+ORD-0033,Dev Patel,Usb-C Hub,09-07-2026,3,2906,8717,Chennai,Shipped
+ORD-0034,Dev Patel,Laptop Stand,10-09-2026,3,23384.16,70152.48,Kolkata,Pending
+ORD-0035,Aarav Sharma,Laptop Stand,05-08-2026,3,15024.03,45072.09,Chennai,Shipped
+ORD-0036,Kabir Khan,Headphones,26-06-2026,2,5772,11544.86,Pune,Pending
+ORD-0037,Rahul Sen,Laptop Stand,04-01-2026,5,8093,40465,Chennai,Pending
+ORD-0038,Unknown,Wireless Mouse,13-01-2026,2,17787.06,35574.12,Kolkata,Shipped
+ORD-0039,Mira Das,Keyboard,22-02-2026,4,23543.27,94173.08,Delhi,Shipped
+ORD-0040,Ananya Roy,Monitor,29-01-2026,5,15023,75117,Bengaluru,Delivered
+ORD-0041,Rahul Sen,Laptop Stand,11-06-2026,1,5511.32,5511.32,Bengaluru,Pending
+ORD-0042,Kabir Khan,Laptop Stand,20-03-2026,2,11513.57,23027.14,Mumbai,Shipped
+ORD-0043,Unknown,Monitor,03-07-2026,4,11146.09,44584.36,Kolkata,Pending
+ORD-0044,Aarav Sharma,Webcam,11-06-2026,5,20947.18,104735.9,Chennai,Shipped
+ORD-0045,Sana Ali,Headphones,16-01-2026,4,11908,47633.04,Pune,Pending
+ORD-0046,Ishita Bose,Wireless Mouse,24-08-2026,1,6533.25,6533,Mumbai,Pending
+ORD-0047,Mira Das,Wireless Mouse,03-07-2026,4,11120,44482,Kolkata,Pending
+ORD-0048,Kabir Khan,Webcam,18-05-2026,4,20852.94,83411.76,Bengaluru,Pending
+ORD-0049,Sana Ali,Webcam,14-02-2026,4,7122,28489,Chennai,Shipped
+ORD-0050,Ananya Roy,Laptop Stand,06-05-2026,3,9616.09,28848.27,Mumbai,Shipped
+ORD-0051,Unknown,Usb-C Hub,03-02-2026,4,24525.21,98100.84,Chennai,Pending
+ORD-0052,Ishita Bose,Keyboard,26-10-2026,3,24238.33,72714.99,Pune,Shipped
+ORD-0053,Mira Das,Monitor,19-04-2026,2,23045.95,46091.9,Unknown,Shipped
+ORD-0054,Ishita Bose,Usb-C Hub,30-04-2026,5,3894.57,19473,Pune,Delivered
+ORD-0055,Kabir Khan,Usb-C Hub,18-10-2026,4,531,2124,Mumbai,Shipped
+ORD-0056,Ishita Bose,Headphones,26-02-2026,2,12234,24468.48,Pune,Pending
+ORD-0057,Ananya Roy,Headphones,29-01-2026,3,18705,56114.25,Pune,Delivered
+ORD-0058,Sana Ali,Monitor,13-03-2026,3,3545,10635,Chennai,Delivered
+ORD-0059,Dev Patel,Keyboard,15-10-2026,1,21797.8,21797.8,Chennai,Delivered
+ORD-0060,Ishita Bose,Headphones,15-10-2026,5,16905.82,84529.1,Chennai,Pending
+ORD-0061,Mira Das,Usb-C Hub,22-07-2026,4,7763,31052.4,Kolkata,Delivered
+ORD-0062,Rahul Sen,Monitor,22-07-2026,4,23664.56,94658.24,Kolkata,Shipped
+ORD-0063,Aarav Sharma,Monitor,19-04-2026,3,9372.17,28116.51,Kolkata,Shipped
+ORD-0064,Mira Das,Laptop Stand,14-01-2026,2,19737.36,39474.72,Unknown,Shipped
+ORD-0065,Aarav Sharma,Usb-C Hub,22-02-2026,1,20022.29,20022,Mumbai,Delivered
+ORD-0066,Mira Das,Power Bank,06-07-2026,3,11371.4,34114,Unknown,Pending
+ORD-0067,Mira Das,Keyboard,22-04-2026,4,12408.64,49634.56,Mumbai,Pending
+ORD-0068,Mira Das,Keyboard,23-05-2026,4,12786.11,51144.44,Mumbai,Shipped
+ORD-0069,Unknown,Keyboard,05-07-2026,4,23852.74,95410.96,Delhi,Pending
+ORD-0070,Aarav Sharma,Webcam,23-03-2026,4,16732.91,66931.64,Pune,Pending
+ORD-0071,Aarav Sharma,Webcam,19-05-2026,4,5885,23540.52,Mumbai,Delivered
+ORD-0072,Ananya Roy,Monitor,06-05-2026,5,2565.41,12827.05,Mumbai,Shipped
+ORD-0073,Kabir Khan,Power Bank,03-10-2026,1,15559.6,15559.6,Mumbai,Delivered
+ORD-0074,Aarav Sharma,Laptop Stand,09-07-2026,3,13314.27,39942.81,Delhi,Delivered
+ORD-0075,Rahul Sen,Monitor,01-07-2026,2,18750,37500.5,Bengaluru,Shipped
+ORD-0076,Kabir Khan,Keyboard,10-02-2026,1,14462,57847.88,Chennai,Pending
+ORD-0077,Ishita Bose,Webcam,23-04-2026,1,10190.11,10190.11,Chennai,Shipped
+ORD-0078,Ananya Roy,Keyboard,12-03-2026,2,16241.44,32483,Delhi,Shipped
+ORD-0079,Sana Ali,Headphones,14-07-2026,4,19067.97,76271.88,Pune,Delivered
+ORD-0080,Mira Das,Keyboard,25-04-2026,3,1704.18,5112.54,Chennai,Shipped
+ORD-0081,Mira Das,Usb-C Hub,23-04-2026,3,22507.43,67522.29,Chennai,Pending
+ORD-0082,Mira Das,Headphones,11-06-2026,3,15066.78,45200.34,Mumbai,Shipped
+ORD-0083,Kabir Khan,Monitor,19-04-2026,3,3792.28,11376.84,Chennai,Pending
+ORD-0084,Ishita Bose,Headphones,19-04-2026,1,22836.47,22836.47,Mumbai,Shipped
+ORD-0085,Aarav Sharma,Headphones,17-02-2026,5,12838.94,64194.7,Delhi,Shipped
+ORD-0086,Dev Patel,Webcam,31-05-2026,2,17005.16,34010.32,Bengaluru,Shipped
+ORD-0087,Ishita Bose,Usb-C Hub,08-08-2026,5,9731.25,48656.25,Kolkata,Shipped
+ORD-0088,Kabir Khan,Power Bank,16-09-2026,2,7340.06,14680.12,Bengaluru,Delivered
+ORD-0089,Sana Ali,Keyboard,17-01-2026,1,9559.34,9559.34,Mumbai,Shipped
+ORD-0090,Rahul Sen,Monitor,17-01-2026,2,768.4,1536.8,Kolkata,Delivered
+ORD-0091,Ananya Roy,Usb-C Hub,01-07-2026,1,15038,15038.45,Chennai,Pending
+ORD-0092,Unknown,Monitor,06-05-2026,5,12829.99,64149.95,Mumbai,Shipped
+ORD-0093,Rahul Sen,Wireless Mouse,27-10-2026,3,14672.01,44016.03,Pune,Pending
+ORD-0094,Aarav Sharma,Headphones,26-06-2026,2,5278.3,10556.6,Kolkata,Shipped
+ORD-0095,Ishita Bose,Monitor,14-07-2026,3,3373.53,10120.59,Delhi,Pending
+ORD-0096,Rahul Sen,Webcam,10-02-2026,5,2248,11242.5,Mumbai,Pending
+ORD-0097,Ishita Bose,Webcam,23-03-2026,5,22815.7,114078.5,Chennai,Shipped
+ORD-0098,Ananya Roy,Headphones,21-02-2026,1,1158.53,1159,Delhi,Shipped
+ORD-0099,Ananya Roy,Keyboard,31-05-2026,3,10130.44,30391,Bengaluru,Pending
+ORD-0100,Ananya Roy,Keyboard,13-09-2026,4,22936.03,91744.12,Pune,Pending
+ORD-0101,Kabir Khan,Webcam,23-08-2026,5,1903,9515,Chennai,Delivered
+ORD-0102,Rahul Sen,Keyboard,25-03-2026,4,14434.25,57737,Bengaluru,Shipped
+ORD-0103,Rahul Sen,Usb-C Hub,21-08-2026,3,17097.69,51293.07,Chennai,Delivered
+ORD-0104,Kabir Khan,Laptop Stand,06-02-2026,1,22404,22404,Chennai,Delivered
+ORD-0105,Aarav Sharma,Wireless Mouse,16-05-2026,3,22578,67735.26,Unknown,Pending
+ORD-0106,Kabir Khan,Power Bank,16-05-2026,4,12227.74,48910.96,Bengaluru,Pending
+ORD-0107,Rahul Sen,Headphones,20-03-2026,4,8829.65,35318.6,Mumbai,Pending
+ORD-0108,Sana Ali,Headphones,22-06-2026,2,24077.34,48155,Bengaluru,Pending
+ORD-0109,Aarav Sharma,Wireless Mouse,21-04-2026,3,5613.07,16839.21,Chennai,Delivered
+ORD-0110,Ananya Roy,Headphones,31-05-2026,1,1416.49,1416,Mumbai,Shipped
+ORD-0111,Unknown,Usb-C Hub,24-07-2026,5,24672.66,123363,Kolkata,Delivered
+ORD-0112,Sana Ali,Usb-C Hub,17-07-2026,3,13032,39096,Mumbai,Pending
+ORD-0113,Ishita Bose,Webcam,05-07-2026,1,8481,8481,Chennai,Delivered
+ORD-0114,Aarav Sharma,Keyboard,16-02-2026,1,9690,19379.4,Delhi,Pending
+ORD-0115,Ananya Roy,Headphones,07-05-2026,2,18266,36531.66,Bengaluru,Pending
+ORD-0116,Dev Patel,Laptop Stand,02-10-2026,5,17424,87119.2,Mumbai,Shipped
+ORD-0117,Unknown,Keyboard,03-10-2026,3,23361.4,70084.2,Delhi,Delivered
+ORD-0118,Ananya Roy,Webcam,04-10-2026,2,18758.26,37516.52,Kolkata,Shipped
+ORD-0119,Aarav Sharma,Usb-C Hub,05-10-2026,2,11967.38,23934.76,Pune,Delivered
+ORD-0120,Aarav Sharma,Usb-C Hub,06-10-2026,2,16410.78,32821.56,Bengaluru,Shipped
+ORD-0121,Mira Das,Headphones,07-10-2026,5,527.9,2639.5,Chennai,Pending
+ORD-0122,Sana Ali,Webcam,08-10-2026,1,18048.37,18048.37,Chennai,Delivered
+ORD-0123,Ishita Bose,Laptop Stand,09-10-2026,3,6426,19277.28,Chennai,Shipped
+ORD-0124,Ishita Bose,Webcam,10-10-2026,2,11794,23588.52,Chennai,Delivered
+ORD-0125,Dev Patel,Laptop Stand,11-10-2026,5,10570.39,52852,Bengaluru,Pending
+ORD-0126,Rahul Sen,Usb-C Hub,12-10-2026,5,12784.53,63922.65,Pune,Delivered
+ORD-0127,Dev Patel,Wireless Mouse,13-10-2026,4,3558,14232.12,Bengaluru,Delivered
+ORD-0128,Mira Das,Power Bank,14-10-2026,1,1873.87,1873.87,Pune,Shipped
+ORD-0129,Mira Das,Usb-C Hub,15-10-2026,4,22696.15,90785,Delhi,Shipped
+ORD-0130,Ishita Bose,Laptop Stand,16-10-2026,4,18060.62,72242.48,Unknown,Shipped
